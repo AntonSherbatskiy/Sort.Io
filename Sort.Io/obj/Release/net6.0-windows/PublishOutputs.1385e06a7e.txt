@@ -1,0 +1,5 @@
+D:\projects\Sort.Io\Sort.Io\bin\Release\net6.0-windows\publish\Sort.Io.exe
+D:\projects\Sort.Io\Sort.Io\bin\Release\net6.0-windows\publish\Sort.Io.dll
+D:\projects\Sort.Io\Sort.Io\bin\Release\net6.0-windows\publish\Sort.Io.deps.json
+D:\projects\Sort.Io\Sort.Io\bin\Release\net6.0-windows\publish\Sort.Io.runtimeconfig.json
+D:\projects\Sort.Io\Sort.Io\bin\Release\net6.0-windows\publish\Sort.Io.pdb
